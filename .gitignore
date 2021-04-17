@@ -1,3 +1,5 @@
 venv
 ./venv
 /venv
+__pycached__
+/__pycached__/*
