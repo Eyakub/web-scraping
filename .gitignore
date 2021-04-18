@@ -3,3 +3,4 @@ venv
 /venv
 __pycached__
 /__pycached__/*
+__pycache__/
